@@ -34,8 +34,7 @@
 <img src="ReadMeImages/img.png" width="100%">
 
 Why this project:
-* i wanted to create a simple 2d game in plain javascript
-* basic game development techniques
+* to create safer passwords for myself
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
