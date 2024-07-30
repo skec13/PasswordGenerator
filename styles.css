@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: rebeccapurple;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    
+}
+
+.pw-container {
+    background-color: rgb(46, 12, 80);
+    width: 400px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5)
+}
+
+.pw-header {
+    padding: 1rem;
+    position: relative;
+    
+}
+
+.pw {
+    width: 100%;
+    height: 50px;
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    height: 70px;
+    font-size: 1.5rem;
+    padding: 1rem 0.4rem;  
+    overflow: hidden;
+}
+
+.pw-header button {
+    background-color: rgb(29, 2, 56);
+    border: none;
+    color: white;
+    padding: 0.25rem 1rem;
+    font-family: inherit;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+.pw-body {
+    padding: 0 1rem 1rem;
+}
+
+.form-control {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.75rem 0;
+    color: #eee;
+    
+}
+
+.generate {
+    display: block;
+    background-color: #ecb602;
+    color: rebeccapurple;
+    font-weight: bold;
+    padding: 0.5rem;
+    border: none;
+    font-size: 1.2rem;
+    width: 70%;
+    font-family: inherit;
+    margin-top: 1rem;
+    margin: auto;
+    
+}
