@@ -70,11 +70,11 @@ How to get repository from Github, install packages and run it locally
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/skec13/JS_games.git
+   git clone https://github.com/skec13/PasswordGenerator.git
    ```
 2. Go to downloaded file and CD into folder
    ```
-   cd 6_SCROLLER_GAME
+   cd PasswordGenerator-main
    ```
 3. Run index.html
    ```sh
